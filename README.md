@@ -1,4 +1,5 @@
 
+# Projecto 2
 Universidad de las Fuerzas Armadas Espe
 
 Asignatura: Fundamentos de Circuitos Eléctricos
@@ -9,7 +10,7 @@ Integrantes: JEAN PIERRE MERA GUZMAN -MICHAEL PATRICIO ANDRANGO CAMPUEZ -JOSE MA
 
 Parcial: 2
 
-Projecto 1: TEMA: Interruptor de 3 vías (luz de escaleras)
+Projecto 2: TEMA: Interruptor de 3 vías (luz de escaleras)
 
 2 OBJETIVOS
 
@@ -23,6 +24,39 @@ Comprender el funcionamiento del circuito conmutado de 3 vías o puntos de contr
 * Conocer el funcionamiento de cada uno de los materiales dentro del circuito de 3 vías.
 
 2.3 MARCO TEORICO
+-
 
 ![image](https://user-images.githubusercontent.com/104911658/213029249-729e8afc-eb88-44db-bd97-19e6fb594118.png)
+
+
+
+2.4. MATERIAL Y EQUIPO REQUERIDO
+
+Tabla de materiales
+
+
+Circuito esquematico a evaluar y armar
+
+
+
+2.5 Procedimiento
+
+
+
+Procedimiento grafico
+
+
+
+VIDEO
+
+
+
+CONCLUSIONES
+
+- 
+- 
+
+BIBLIOGRAFÍA
+
+
 
