@@ -24,7 +24,6 @@ Comprender el funcionamiento del circuito conmutado de 3 vías o puntos de contr
 * Conocer el funcionamiento de cada uno de los materiales dentro del circuito de 3 vías.
 
 2.3 MARCO TEORICO
--
 
 ![image](https://user-images.githubusercontent.com/104911658/213029249-729e8afc-eb88-44db-bd97-19e6fb594118.png)
 
