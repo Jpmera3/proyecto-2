@@ -75,8 +75,10 @@ https://youtu.be/P4tyC9Ytsvo
 
 CONCLUSIONES
 
-- 
-- 
+- En fin la construccion del circuito de tres vias no tiene mayor complicacion, sus materiales son faciles de conseguir, los 2 interruptores de 3 vias permiten en si el aramado del circuito escalera (conmutado).
+
+- Para concluir el funcionamiento de cada uno de los materiales permite el correcto y seguro funcionamiento por nombrar el aislante (taipe) que nos proporciona aislamiento electrico, y el interruptor conmutado para la configuracion de encendido y apagado. 
+
 
 BIBLIOGRAFÍA
 
